@@ -1,0 +1,48 @@
+void LoadBan()
+        {
+            dsBan = dbBan.LayDanhSachBan();
+            foreach (Ban ban in dsBan)
+            {
+                Button btn = new Button() { Width = 90, Height = 90 };
+                btn.Text = ban.MaBan;
+                btn.ForeColor = Color.Black;
+                btn.FlatStyle = FlatStyle.Flat;
+                btn.FlatAppearance.BorderSize = 1;
+                btn.Click += btn_Click;
+                btn.Tag = ban.TinhTrang;
+
+                if (ban.TinhTrang.Equals("Trống"))
+                    btn.BackColor = Color.Transparent;
+                else
+                btn.BackColor = Color.Firebrick;
+
+                if (ban.MaKV.Trim() == "KV1")
+                    fpnlPhongLanh.Controls.Add(btn);
+                else
+                    fpnlSanVuon.Controls.Add(btn);
+            }
+        }
+
+public void LoadTable()
+        {
+            List<Table> tableList = TableDAO.Instance.LoadTableList();
+
+            foreach(Table item in tableList)
+            {
+                Button button = new Button() { Width = TableDAO.TableWidth,Height = TableDAO.TableHeight };
+                button.Text = item.Name + Environment.NewLine + item.Status;
+                button.Tag = item;
+
+                button.Click += button_Click;
+                switch(item.Status)
+                {
+                    case "Trống":
+                        button.BackColor = Color.Aqua;
+                            break;
+                    default:
+                        button.BackColor = Color.LightPink;
+                        break;
+                }
+                flbTable.Controls.Add(button);
+            }
+        }

@@ -1,0 +1,598 @@
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\obj\Debug\Do_an_Co_so.Form_Change_Config.resources
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\obj\Debug\Do_an_Co_so.Form_Dang_Ky.resources
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\obj\Debug\Do_an_Co_so.Form_Dang_Nhap.resources
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\obj\Debug\Do_an_Co_so.Form_Doi_Mk.resources
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\obj\Debug\Do_an_Co_so.Form_Nhan_Vien.resources
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\obj\Debug\QuanLyThuVien_KeKao.Main_Form.resources
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\obj\Debug\Do_an_Co_so.Properties.Resources.resources
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\obj\Debug\Do_an_Co_so.csproj.GenerateResource.cache
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\obj\Debug\Do_an_Co_so.exe.licenses
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\obj\Debug\Do_an_Co_so.csproj.CoreCompileInputs.cache
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\Do_an_Co_so.exe.config
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\Do_an_Co_so.exe
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\Do_an_Co_so.pdb
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.Data.v21.2.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.Utils.v21.2.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.XtraBars.v21.2.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.Data.v21.2.xml
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.Utils.v21.2.xml
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.XtraBars.v21.2.xml
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\obj\Debug\Do_an_Co_so.csproj.CopyComplete
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\obj\Debug\Do_an_Co_so.exe
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\obj\Debug\Do_an_Co_so.pdb
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\Interop.CTVLib.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\AxInterop.CTVLib.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\obj\Debug\Interop.CTVLib.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\obj\Debug\AxInterop.CTVLib.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\obj\Debug\Do_an_Co_so.csproj.ResolveComReference.cache
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\obj\Debug\Do_an_Co_so.Admin.resources
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.Charts.v21.2.Core.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.Diagram.v21.2.Core.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.Office.v21.2.Core.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.Utils.v21.2.UI.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.XtraCharts.v21.2.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.XtraCharts.v21.2.UI.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.XtraCharts.v21.2.Wizard.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.XtraDiagram.v21.2.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.XtraPrinting.v21.2.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.XtraVerticalGrid.v21.2.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.XtraTreeList.v21.2.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.XtraLayout.v21.2.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.XtraRichEdit.v21.2.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.DataAccess.v21.2.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.DataVisualization.v21.2.Core.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.XtraGrid.v21.2.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.XtraNavBar.v21.2.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.RichEdit.v21.2.Core.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.Images.v21.2.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.Xpo.v21.2.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.CodeParser.v21.2.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.Charts.v21.2.Core.xml
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.Diagram.v21.2.Core.xml
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.Office.v21.2.Core.xml
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.Utils.v21.2.UI.xml
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.XtraCharts.v21.2.xml
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.XtraCharts.v21.2.UI.xml
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.XtraCharts.v21.2.Wizard.xml
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.XtraDiagram.v21.2.xml
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.XtraPrinting.v21.2.xml
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.XtraVerticalGrid.v21.2.xml
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.XtraTreeList.v21.2.xml
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.XtraLayout.v21.2.xml
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.XtraRichEdit.v21.2.xml
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.DataAccess.v21.2.xml
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.XtraGrid.v21.2.xml
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.XtraNavBar.v21.2.xml
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.RichEdit.v21.2.Core.xml
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.Xpo.v21.2.xml
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\de\DevExpress.Diagram.v21.2.Core.resources.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\es\DevExpress.Diagram.v21.2.Core.resources.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ja\DevExpress.Diagram.v21.2.Core.resources.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ru\DevExpress.Diagram.v21.2.Core.resources.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\de\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\es\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ja\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ru\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\de\DevExpress.Utils.v21.2.UI.resources.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\es\DevExpress.Utils.v21.2.UI.resources.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ja\DevExpress.Utils.v21.2.UI.resources.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ru\DevExpress.Utils.v21.2.UI.resources.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\de\DevExpress.XtraCharts.v21.2.resources.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\es\DevExpress.XtraCharts.v21.2.resources.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ja\DevExpress.XtraCharts.v21.2.resources.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ru\DevExpress.XtraCharts.v21.2.resources.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\de\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\es\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ja\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ru\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\de\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\es\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ja\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ru\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\de\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\es\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ja\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ru\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\de\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\es\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ja\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ru\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\de\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\es\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ja\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ru\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\de\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\es\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ja\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ru\DevExpress.XtraRichEdit.v21.2.resources.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\de\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\es\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ja\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ru\DevExpress.DataAccess.v21.2.resources.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\de\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\es\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ja\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ru\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\de\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\es\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ja\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ru\DevExpress.XtraNavBar.v21.2.resources.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\de\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\es\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ja\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ru\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\de\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\es\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ja\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ru\DevExpress.Xpo.v21.2.resources.dll
+C:\Users\Tin\Desktop\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\obj\Debug\Do_an_Co_so.csproj.AssemblyReference.cache
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\Do_an_Co_so.exe.config
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\Do_an_Co_so.exe
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\Do_an_Co_so.pdb
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.Charts.v21.2.Core.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.Data.v21.2.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.Diagram.v21.2.Core.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.Office.v21.2.Core.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.Utils.v21.2.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.Utils.v21.2.UI.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.XtraBars.v21.2.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.XtraCharts.v21.2.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.XtraCharts.v21.2.UI.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.XtraCharts.v21.2.Wizard.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.XtraDiagram.v21.2.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.XtraPrinting.v21.2.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.XtraVerticalGrid.v21.2.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.XtraTreeList.v21.2.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.XtraLayout.v21.2.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.XtraRichEdit.v21.2.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.DataAccess.v21.2.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.DataVisualization.v21.2.Core.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.XtraGrid.v21.2.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.XtraNavBar.v21.2.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.RichEdit.v21.2.Core.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.Images.v21.2.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.Xpo.v21.2.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.CodeParser.v21.2.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.Charts.v21.2.Core.xml
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.Data.v21.2.xml
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.Diagram.v21.2.Core.xml
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.Office.v21.2.Core.xml
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.Utils.v21.2.xml
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.Utils.v21.2.UI.xml
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.XtraBars.v21.2.xml
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.XtraCharts.v21.2.xml
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.XtraCharts.v21.2.UI.xml
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.XtraCharts.v21.2.Wizard.xml
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.XtraDiagram.v21.2.xml
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.XtraPrinting.v21.2.xml
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.XtraVerticalGrid.v21.2.xml
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.XtraTreeList.v21.2.xml
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.XtraLayout.v21.2.xml
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.XtraRichEdit.v21.2.xml
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.DataAccess.v21.2.xml
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.XtraGrid.v21.2.xml
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.XtraNavBar.v21.2.xml
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.RichEdit.v21.2.Core.xml
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.Xpo.v21.2.xml
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\de\DevExpress.Diagram.v21.2.Core.resources.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\es\DevExpress.Diagram.v21.2.Core.resources.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ja\DevExpress.Diagram.v21.2.Core.resources.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ru\DevExpress.Diagram.v21.2.Core.resources.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\de\DevExpress.Office.v21.2.Core.resources.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\es\DevExpress.Office.v21.2.Core.resources.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ja\DevExpress.Office.v21.2.Core.resources.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ru\DevExpress.Office.v21.2.Core.resources.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\de\DevExpress.Utils.v21.2.UI.resources.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\es\DevExpress.Utils.v21.2.UI.resources.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ja\DevExpress.Utils.v21.2.UI.resources.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ru\DevExpress.Utils.v21.2.UI.resources.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\de\DevExpress.XtraCharts.v21.2.resources.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\es\DevExpress.XtraCharts.v21.2.resources.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ja\DevExpress.XtraCharts.v21.2.resources.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ru\DevExpress.XtraCharts.v21.2.resources.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\de\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\es\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ja\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ru\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\de\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\es\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ja\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ru\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\de\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\es\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ja\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ru\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\de\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\es\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ja\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ru\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\de\DevExpress.XtraLayout.v21.2.resources.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\es\DevExpress.XtraLayout.v21.2.resources.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ja\DevExpress.XtraLayout.v21.2.resources.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ru\DevExpress.XtraLayout.v21.2.resources.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\de\DevExpress.XtraRichEdit.v21.2.resources.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\es\DevExpress.XtraRichEdit.v21.2.resources.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ja\DevExpress.XtraRichEdit.v21.2.resources.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ru\DevExpress.XtraRichEdit.v21.2.resources.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\de\DevExpress.DataAccess.v21.2.resources.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\es\DevExpress.DataAccess.v21.2.resources.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ja\DevExpress.DataAccess.v21.2.resources.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ru\DevExpress.DataAccess.v21.2.resources.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\de\DevExpress.XtraGrid.v21.2.resources.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\es\DevExpress.XtraGrid.v21.2.resources.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ja\DevExpress.XtraGrid.v21.2.resources.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ru\DevExpress.XtraGrid.v21.2.resources.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\de\DevExpress.XtraNavBar.v21.2.resources.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\es\DevExpress.XtraNavBar.v21.2.resources.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ja\DevExpress.XtraNavBar.v21.2.resources.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ru\DevExpress.XtraNavBar.v21.2.resources.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\de\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\es\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ja\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ru\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\de\DevExpress.Xpo.v21.2.resources.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\es\DevExpress.Xpo.v21.2.resources.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ja\DevExpress.Xpo.v21.2.resources.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ru\DevExpress.Xpo.v21.2.resources.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\Interop.CTVLib.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\AxInterop.CTVLib.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\obj\Debug\Interop.CTVLib.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\obj\Debug\AxInterop.CTVLib.dll
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\obj\Debug\Do_an_Co_so.csproj.ResolveComReference.cache
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\obj\Debug\Do_an_Co_so.Admin.resources
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\obj\Debug\Do_an_Co_so.Form_Change_Config.resources
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\obj\Debug\Do_an_Co_so.Form_Dang_Ky.resources
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\obj\Debug\Do_an_Co_so.Form_Dang_Nhap.resources
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\obj\Debug\Do_an_Co_so.Form_Doi_Mk.resources
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\obj\Debug\Do_an_Co_so.Form_Nhan_Vien.resources
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\obj\Debug\QuanLyThuVien_KeKao.Main_Form.resources
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\obj\Debug\Do_an_Co_so.Properties.Resources.resources
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\obj\Debug\Do_an_Co_so.csproj.GenerateResource.cache
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\obj\Debug\Do_an_Co_so.exe.licenses
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\obj\Debug\Do_an_Co_so.csproj.CoreCompileInputs.cache
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\obj\Debug\Do_an_Co_so.csproj.CopyComplete
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\obj\Debug\Do_an_Co_so.exe
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\obj\Debug\Do_an_Co_so.pdb
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\obj\Debug\Do_an_Co_so.XtraForm1.resources
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\obj\Debug\Do_an_Co_so.Component.Mon_an.resources
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\obj\Debug\Do_an_Co_so.Custom_Component.Mon_an_Hinh_Vuong.resources
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\obj\Debug\Do_an_Co_so.Custom_Controls.Custom_Textbox.resources
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\obj\Debug\Do_an_Co_so.Form1.resources
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\obj\Debug\Do_an_Co_so.Form_Mon.resources
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\obj\Debug\Do_an_Co_so.Custom_Component.Cus_Ban.resources
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\obj\Debug\Do_an_Co_so.Custom_Component.Cus_KhuVuc.resources
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\obj\Debug\Do_an_Co_so.Custom_Component.Cus_KhuVuc_2.resources
+D:\z_do-an_ql_cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\obj\Debug\Do_an_Co_so.csproj.AssemblyReference.cache
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\Do_an_Co_so.exe.config
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\Do_an_Co_so.exe
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\Do_an_Co_so.pdb
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.Charts.v21.2.Core.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.CodeParser.v21.2.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.Data.v21.2.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.DataAccess.v21.2.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.Diagram.v21.2.Core.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.Office.v21.2.Core.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.RichEdit.v21.2.Core.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.Utils.v21.2.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.Utils.v21.2.UI.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.Xpo.v21.2.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.XtraBars.v21.2.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.XtraCharts.v21.2.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.XtraCharts.v21.2.UI.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.XtraCharts.v21.2.Wizard.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.XtraDiagram.v21.2.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.XtraLayout.v21.2.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.XtraNavBar.v21.2.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.XtraPrinting.v21.2.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.XtraTreeList.v21.2.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.XtraVerticalGrid.v21.2.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.XtraRichEdit.v21.2.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.DataVisualization.v21.2.Core.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.XtraGrid.v21.2.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.Images.v21.2.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.Charts.v21.2.Core.xml
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.Data.v21.2.xml
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.DataAccess.v21.2.xml
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.Diagram.v21.2.Core.xml
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.Office.v21.2.Core.xml
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.RichEdit.v21.2.Core.xml
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.Utils.v21.2.xml
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.Utils.v21.2.UI.xml
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.Xpo.v21.2.xml
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.XtraBars.v21.2.xml
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.XtraCharts.v21.2.xml
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.XtraCharts.v21.2.UI.xml
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.XtraCharts.v21.2.Wizard.xml
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.XtraDiagram.v21.2.xml
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.XtraLayout.v21.2.xml
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.XtraNavBar.v21.2.xml
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.XtraPrinting.v21.2.xml
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.XtraTreeList.v21.2.xml
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.XtraVerticalGrid.v21.2.xml
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.XtraRichEdit.v21.2.xml
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.XtraGrid.v21.2.xml
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\de\DevExpress.DataAccess.v21.2.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\es\DevExpress.DataAccess.v21.2.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ja\DevExpress.DataAccess.v21.2.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ru\DevExpress.DataAccess.v21.2.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\de\DevExpress.Diagram.v21.2.Core.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\es\DevExpress.Diagram.v21.2.Core.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ja\DevExpress.Diagram.v21.2.Core.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ru\DevExpress.Diagram.v21.2.Core.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\de\DevExpress.Office.v21.2.Core.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\es\DevExpress.Office.v21.2.Core.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ja\DevExpress.Office.v21.2.Core.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ru\DevExpress.Office.v21.2.Core.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\de\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\es\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ja\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ru\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\de\DevExpress.Utils.v21.2.UI.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\es\DevExpress.Utils.v21.2.UI.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ja\DevExpress.Utils.v21.2.UI.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ru\DevExpress.Utils.v21.2.UI.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\de\DevExpress.Xpo.v21.2.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\es\DevExpress.Xpo.v21.2.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ja\DevExpress.Xpo.v21.2.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ru\DevExpress.Xpo.v21.2.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\de\DevExpress.XtraCharts.v21.2.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\es\DevExpress.XtraCharts.v21.2.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ja\DevExpress.XtraCharts.v21.2.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ru\DevExpress.XtraCharts.v21.2.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\de\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\es\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ja\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ru\DevExpress.XtraCharts.v21.2.Wizard.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\de\DevExpress.XtraLayout.v21.2.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\es\DevExpress.XtraLayout.v21.2.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ja\DevExpress.XtraLayout.v21.2.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ru\DevExpress.XtraLayout.v21.2.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\de\DevExpress.XtraNavBar.v21.2.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\es\DevExpress.XtraNavBar.v21.2.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ja\DevExpress.XtraNavBar.v21.2.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ru\DevExpress.XtraNavBar.v21.2.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\de\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\es\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ja\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ru\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\de\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\es\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ja\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ru\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\de\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\es\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ja\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ru\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\de\DevExpress.XtraRichEdit.v21.2.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\es\DevExpress.XtraRichEdit.v21.2.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ja\DevExpress.XtraRichEdit.v21.2.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ru\DevExpress.XtraRichEdit.v21.2.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\de\DevExpress.XtraGrid.v21.2.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\es\DevExpress.XtraGrid.v21.2.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ja\DevExpress.XtraGrid.v21.2.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ru\DevExpress.XtraGrid.v21.2.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\Interop.CTVLib.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\AxInterop.CTVLib.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\obj\Debug\Do_an_Co_so.csproj.AssemblyReference.cache
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\obj\Debug\Interop.CTVLib.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\obj\Debug\AxInterop.CTVLib.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\obj\Debug\Do_an_Co_so.csproj.ResolveComReference.cache
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\obj\Debug\Do_an_Co_so.Admin.resources
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\obj\Debug\Do_an_Co_so.Custom_Component.Cus_Ban.resources
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\obj\Debug\Do_an_Co_so.Custom_Component.Cus_KhuVuc.resources
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\obj\Debug\Do_an_Co_so.Custom_Component.Cus_KhuVuc_2.resources
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\obj\Debug\Do_an_Co_so.Component.Mon_an.resources
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\obj\Debug\Do_an_Co_so.Custom_Component.Mon_an_Hinh_Vuong.resources
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\obj\Debug\Do_an_Co_so.Custom_Controls.Custom_Textbox.resources
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\obj\Debug\Do_an_Co_so.Form_Change_Config.resources
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\obj\Debug\Do_an_Co_so.Form_Dang_Ky.resources
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\obj\Debug\Do_an_Co_so.Form_Dang_Nhap.resources
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\obj\Debug\Do_an_Co_so.Form_Doi_Mk.resources
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\obj\Debug\Do_an_Co_so.Form_Nhan_Vien.resources
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\obj\Debug\Do_an_Co_so.Properties.Resources.resources
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\obj\Debug\Do_an_Co_so.csproj.GenerateResource.cache
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\obj\Debug\Do_an_Co_so.exe.licenses
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\obj\Debug\Do_an_Co_so.csproj.CoreCompileInputs.cache
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\obj\Debug\Do_an_Co_so.csproj.CopyComplete
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\obj\Debug\Do_an_Co_so.exe
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\obj\Debug\Do_an_Co_so.pdb
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\obj\Debug\Do_an_Co_so.Form_QL_Mon.resources
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\obj\Debug\Do_an_Co_so.Form_So_do_ban.resources
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\obj\Debug\Do_an_Co_so.Custom_Component.Cus_Bep.resources
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\obj\Debug\Do_an_Co_so.Form_Bep.resources
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\obj\Debug\Do_an_Co_so.Form_DS_Mon.resources
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\obj\Debug\Do_an_Co_so.F_Khach_hang.resources
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\obj\Debug\Do_an_Co_so.F_QL_Ban_va_khu_vuc.resources
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\obj\Debug\Do_an_Co_so.Custom_Component.Cus_date.resources
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\obj\Debug\Do_an_Co_so.F_Dat_ban.resources
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\obj\Debug\Do_an_Co_so.Phieu_dat_ban.resources
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\obj\Debug\Do_an_Co_so.Custom_Component.Cus_Phieu_dat_ban.resources
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\obj\Debug\Do_an_Co_so.Custom_Component.Cus_DonHang.resources
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\obj\Debug\Do_an_Co_so.F_Chon_ban_de_chuyen.resources
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\obj\Debug\Do_an_Co_so.Custom_Component.Cus_goi_mon.resources
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\obj\Debug\Do_an_Co_so.F_Don_hang.resources
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\obj\Debug\Do_an_Co_so.Form_Gop_ban.resources
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\HinhAnh\Thức uống\CaCao Nóng.jpg
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\HinhAnh\Thức uống\Hồng Trà Sủi Bọt.jpg
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\HinhAnh\Thức uống\Matcha Trân Châu Đường Đen.jpg
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\HinhAnh\Thức uống\Matcha đậu đỏ.jpg
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\HinhAnh\Thức uống\Matcha.jpg
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\HinhAnh\Thức uống\Pin Sữa Đá.jpg
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\HinhAnh\Thức uống\Trà Vải.jpg
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\HinhAnh\Thức uống\Trà Đào.jpg
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\HinhAnh\Thức uống\Đen Nóng.jpg
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\HinhAnh\Thức uống\Đen Đá.jpg
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\HinhAnh\Đồ ăn\Bánh Quy.jpg
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\HinhAnh\Đồ ăn\Bông Lan Cuộn Mứt Dâu.jpg
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\HinhAnh\Đồ ăn\Bông Lan Cuộn Socola.jpg
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\HinhAnh\Đồ ăn\Bông Lan Cuộn Vani.jpg
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\HinhAnh\Đồ ăn\Bông Lan Trứng Muối.jpg
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\HinhAnh\Đồ ăn\Flan Socola.jpg
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\HinhAnh\Đồ ăn\Pancake Kem Dâu.jpg
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\HinhAnh\Đồ ăn\Pancake Mật ong.jpg
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.PivotGrid.v21.2.Core.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.RichEdit.v21.2.Export.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.XtraGauges.v21.2.Core.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.XtraReports.v21.2.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.XtraReports.v21.2.Extensions.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.DataAccess.v21.2.UI.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.XtraPivotGrid.v21.2.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.XtraCharts.v21.2.Extensions.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.PivotGrid.v21.2.Core.xml
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.XtraGauges.v21.2.Core.xml
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.XtraReports.v21.2.xml
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.XtraReports.v21.2.Extensions.xml
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.DataAccess.v21.2.UI.xml
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\DevExpress.XtraPivotGrid.v21.2.xml
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\de\DevExpress.PivotGrid.v21.2.Core.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\es\DevExpress.PivotGrid.v21.2.Core.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ja\DevExpress.PivotGrid.v21.2.Core.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ru\DevExpress.PivotGrid.v21.2.Core.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\de\DevExpress.XtraGauges.v21.2.Core.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\es\DevExpress.XtraGauges.v21.2.Core.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ja\DevExpress.XtraGauges.v21.2.Core.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ru\DevExpress.XtraGauges.v21.2.Core.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\de\DevExpress.XtraReports.v21.2.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\es\DevExpress.XtraReports.v21.2.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ja\DevExpress.XtraReports.v21.2.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ru\DevExpress.XtraReports.v21.2.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\de\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\es\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ja\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ru\DevExpress.XtraReports.v21.2.Extensions.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\de\DevExpress.DataAccess.v21.2.UI.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\es\DevExpress.DataAccess.v21.2.UI.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ja\DevExpress.DataAccess.v21.2.UI.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ru\DevExpress.DataAccess.v21.2.UI.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\de\DevExpress.XtraPivotGrid.v21.2.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\es\DevExpress.XtraPivotGrid.v21.2.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ja\DevExpress.XtraPivotGrid.v21.2.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\ru\DevExpress.XtraPivotGrid.v21.2.resources.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\obj\Debug\Do_an_Co_so.F_Thanh_toan.resources
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\obj\Debug\Do_an_Co_so.XtraReport1.resources
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\zxing.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\zxing.presentation.dll
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\zxing.xml
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\bin\Debug\zxing.presentation.xml
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\obj\Debug\Do_an_Co_so.F_thanh_toan_momo.resources
+D:\z_Do an co so QL Cafe\Do_an_QLCafe\Do_an_Co_so\Do_an_Co_so\obj\Debug\Do_an_Co_so.F_Bao_cao.resources
