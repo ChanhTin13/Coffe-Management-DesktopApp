@@ -25,7 +25,7 @@
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
- <p align="left">Open SQL Server and run file Do_an_Co_so.sql to create database (You should find and update all paths to match accordingly to display img. Its keywords start with "D:\z_Do an co so QL Cafe\Do_an_QLCafe\" or delete all lines containing path start with "D:\"</p>
+ <p align="left">Open SQL Server and run file Do_an_Co_so.sql to create database (You should find and update all paths to match accordingly to display img. Its keywords start with "C:/" and "D:\z_Do an co so QL Cafe\Do_an_QLCafe\" or you can delete all lines containing path start with (only) "D:\"</p>
  <p>Run project in Visual Studio</p>
  <p>At the login screen, click on the blue underlined small text,, labeled 'vào đây' to modify the connection string.</p>
    <p>Admin acount:username: 00, password: 1</p>
